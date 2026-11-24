@@ -6,8 +6,11 @@ The project focuses on predicting credit card application approvals using machin
 
 This was a collaborative academic project completed by Team 3:
 Akula Siri
+
 K Jayadeva Satyavamsi
+
 P Harshit
+
 Peruri Ramya Sree
 
 Project Overview
