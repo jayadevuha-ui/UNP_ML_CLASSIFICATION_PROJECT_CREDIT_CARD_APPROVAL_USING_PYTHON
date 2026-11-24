@@ -5,6 +5,7 @@ This project was completed as part of the *United Network of Professionals (UNP)
 The project focuses on predicting credit card application approvals using machine learning techniques. It aims to develop a reliable classification model by analyzing applicant information and identifying patterns that influence credit approval decisions.
 
 This was a collaborative academic project completed by Team 3:
+
 Akula Siri
 
 K Jayadeva Satyavamsi
